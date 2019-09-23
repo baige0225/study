@@ -2,8 +2,6 @@
 
 // var data = fs.readFileSync("/Users/libaige/Desktop/libaige.txt");
 
-// console.log(data.toString());
-
 
 // var fs = require("fs");
 
